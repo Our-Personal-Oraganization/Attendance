@@ -2,7 +2,11 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div>Sri Venkateswara University</div>
+    <div>
+      <h1>Sri Venkateswara University</h1>
+      <h3>Attendance App</h3>
+    </div>
+    
   )
 }
 
